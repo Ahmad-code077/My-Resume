@@ -10,7 +10,7 @@ Frontend Developer skilled in modern web technologies including HTML, CSS, JavaS
 
 ## Experience
 
-### Frontend Engineer
+### 🖥️ Frontend Engineer
 
 **Code's Thinker | Bahawalpur, Punjab | August 2024 – Present**
 
@@ -21,7 +21,7 @@ Frontend Developer skilled in modern web technologies including HTML, CSS, JavaS
 - Integrated third-party libraries and APIs, such as Axios and RTK Query, to enhance data-fetching capabilities and improve API response handling by 40%.
 - Mentored junior developers, conducting code reviews and knowledge-sharing sessions to elevate team expertise in modern frontend practices.
 
-### Frontend Developer
+### 💻 Frontend Developer
 
 **StemEye | Bahawalpur, Punjab | June 2024 – August 2024**
 
@@ -32,14 +32,14 @@ Frontend Developer skilled in modern web technologies including HTML, CSS, JavaS
 
 ## Education
 
-### Intermediate FSC-Engineering
+### 🎓 Intermediate FSC-Engineering
 
 **Concordia College Bahawalpur | Bahawalpur, Punjab | 2021 – 2023**
 
 - Completed coursework in Mathematics, Physics, and Chemistry, laying a strong foundation for engineering concepts and problem-solving techniques.
 - Gained expertise in solving complex mathematical problems, understanding mechanical principles, and analyzing chemical processes.
 
-### CS50: Introduction to Computer Science
+### 📚 CS50: Introduction to Computer Science
 
 **Harvard University | 2023 – 2024**
 
@@ -49,25 +49,25 @@ Frontend Developer skilled in modern web technologies including HTML, CSS, JavaS
 
 ## Skills
 
-### Technical Skills
+### 🛠️ Technical Skills
 
 - **Frontend Technologies:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, React-Router, Redux Toolkit, RTK Query, Axios, Next.js, Zod, Shadcn
 - **Version Control:** Git, GitHub
 
-### Soft Skills
+### 🤝 Soft Skills
 
 - Communication | Problem-solving | Teamwork | Time Management
 
 ## Projects
 
-### LusailNumbers
+### 🚗 LusailNumbers
 
 **Description:** A car number plate selling platform with three types of users: Buyer, Seller, and Admin. Sellers can create and manage plates, track orders, and manage inventory. Buyers can view, like, and contact sellers, or initiate a chat for negotiation. Admins oversee platform activities.  
 **Technologies Used:** React.js, Redux Toolkit, RTK Query, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO  
 **Links:**  
 [GitHub Repository](https://github.com/shakeel7521951/car-number-plates) | [Live Demo](https://lusailnumbers.com/)
 
-### Instagram Video Downloader
+### 📱 Instagram Video Downloader
 
 **Description:** A web application that allows users to download videos directly from Instagram. Built using TypeScript and Next.js, it offers a seamless and responsive user interface. Styled with Shadcn and integrated with external APIs for video retrieval, the app focuses on user experience and efficiency.  
 **Technologies Used:** TypeScript, Next.js, Shadcn, Tailwind CSS  
